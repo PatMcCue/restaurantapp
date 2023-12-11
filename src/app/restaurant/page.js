@@ -1,8 +1,8 @@
 import Head from 'next/head';
 // import styles from '';
 
-export default function Home() {
+export default function Restaurant() {
     return (
-        <h1>Hello Page</h1>
+        <h1>Mediterranean Grill</h1>
     )
 }
